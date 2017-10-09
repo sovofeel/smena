@@ -1,0 +1,1 @@
+### Smena project [![Build Status](https://travis-ci.org/dex157/smena.svg?branch=master)](https://travis-ci.org/sovofeel/smena.svg?branch=master)
