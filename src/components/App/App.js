@@ -54,4 +54,5 @@ const mapDispatchToProps = {
   getUserInfoRequest
 }
 
+
 export default withRouter(connect(mapStateToProps, mapDispatchToProps)(App))
