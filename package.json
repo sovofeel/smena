@@ -1,0 +1,31 @@
+{
+  "name": "smena-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^2.12.8",
+    "axios": "^0.16.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.11",
+    "react-stockcharts": "^0.6.1",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "redux-saga": "^0.15.6",
+    "reselect": "^3.0.1",
+    "styled-components": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "NODE_PATH=src/ start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.2.8"
+  }
+}
